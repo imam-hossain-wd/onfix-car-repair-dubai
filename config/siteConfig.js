@@ -158,23 +158,22 @@ export const SiteConfig = {
   emailLink: "mailto:onfixcarrepair@gmail.com",
   description:
     "OnFix Car Repair Mechanic Dubai provides 24/7 professional, fast, and reliable mobile mechanic services at your doorstep across Dubai.",
-  displayNumber: "+971 54 141 6509",
+  displayNumber: "+054 141 6509",
   numberCallLink: "tel:+971541416509",
   whatsappCallLink: "https://wa.me/971541416509",
-  location: "Nadd Hessa - Industrial Area, Dubai, UAE",
+  location: "60 Street, Nadd Hessa - Industrial Area, Dubai, UAE",
   streetAddress: "60 Street, Nadd Hessa",
   addressLocality: "Dubai",
   addressRegion: "Dubai",
   addressCountry: "AE",
   postalCode: "00000",
-  mapsLink: "https://maps.app.goo.gl/BazzBtwgpRdgFzwT7",
-  embedMap:
-    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28898.635290817074!2d55.36598682055146!3d25.124551732046235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f646c9e2a6135%3A0xad180ec0217770f6!2sNadd%20Hessa%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sbd!4v1786551085558!5m2!1sen!2sbd",
+  mapsLink: "https://maps.app.goo.gl/2rRD1udWrJ32mbPy6",
+  embedMap: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28899.534004380155!2d55.34102131083985!3d25.120751900000013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6550875af609%3A0x8473c0c8a05ea690!2sOnFix%20Car%20Repair%20Mechanic%20Dubai!5e0!3m2!1sen!2sae!4v1786812375797!5m2!1sen!2sae",
 
   GMB: {
     name: "OnFix Car Repair Mechanic Dubai",
-    placeId: "ChIJNWEqnmg0Xz4R9nB3IcAOC60", // Update with your actual Google Place ID
-    cid: "0xad180ec0217770f6",
+    placeId: "ChIJCfZah1BlXz4RkKZeoMjAc4",
+    cid: "9544184003244762768",
     category: "Auto Repair Shop",
     mapsLink: "https://maps.app.goo.gl/xCsHRiMYSnpPw93N9",
     latitude: "25.1245517",
@@ -258,7 +257,7 @@ export const SiteConfig = {
   ],
 
   contactLinks: [
-    { name: "Map", icon: MapPin, href: "https://maps.app.goo.gl/BazzBtwgpRdgFzwT7" },
+    { name: "Map", icon: MapPin, href: "https://maps.app.goo.gl/2rRD1udWrJ32mbPy6" },
     { name: "Phone", icon: Phone, href: "tel:+971541416509" },
     { name: "Email", icon: Mail, href: "mailto:onfixcarrepair@gmail.com" },
   ],
