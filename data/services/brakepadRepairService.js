@@ -1,120 +1,120 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const brakepadRepairService = {
-    title: "Brake Pad Repair Dubai | Fast Mobile Brake Service Near You",
+    title: "Brake Pad Repair Dubai | Onsite Mobile Brake Replacement & Service",
     name: "Brake Pad Repair",
-    metaTitle: "Brake Pad Repair Dubai – Brake Replacement & Emergency Service",
-    metaDescription: "Brake pads worn out? Get expert brake pad replacement and inspection in Dubai with Car Repair Mechanic Dubai. Fast 5 to 15 minutes mobile service, emergency brake repair, and quality parts to ensure safe driving.",
+    metaTitle: "Brake Pad Repair Dubai – 24/7 Mobile Brake Replacement Near Me",
+    metaDescription: "Squeaky brakes in Dubai? OnFix Car Repair Mechanic Dubai provides 24/7 mobile brake pad replacement, rotor inspection, and emergency brake service at your location within 5-30 minutes.",
 
     features: [
-        "Brake pad replacement and inspection",
-        "Brake disc/drum check & repair",
-        "Emergency mobile brake service",
-        "Brake fluid check & replacement",
-        "ABS system diagnostics",
-        "Mobile service anywhere in Dubai"
+        "Precision brake pad replacement and wear inspection",
+        "Brake disc/rotor resurfacing, measurement, and replacement",
+        "24/7 emergency mobile brake service across all Dubai communities",
+        "Brake fluid flushing, bleeding, and pressure testing",
+        "ABS system diagnostics and sensor checks",
+        "100% genuine OEM brake parts with official warranty & zero towing"
     ],
 
     slug: "brake-pad-repair-dubai",
 
     service_image: serviceImages?.spareParts,
-    service_banner: ServiceBanner.breakpad,
+    service_banner: ServiceBanner?.breakpad,
 
     intro: {
-        heading: "Professional Brake Pad Repair Service in Dubai",
-        subheading: "Ensure Your Car Stops Safely Every Time",
-        content: "Brake pads are critical for your safety. Worn-out brake pads can cause squeaking, reduced braking efficiency, or even dangerous accidents. Car Repair Mechanic Dubai's expert brake pad repair service provides fast mobile service, thorough inspection, and quality replacements to ensure your car stops safely and smoothly."
+        heading: "Professional Onsite Mobile Brake Pad Repair in Dubai",
+        subheading: "Ensure Superior Stopping Power & Absolute Safety Anywhere in Dubai Within 5–30 Minutes",
+        content: "Compromised brakes put you at extreme risk on Dubai's fast-paced highways and city streets. When your brake pads wear down, squeal, or fail to respond crisply, driving becomes hazardous. Transporting a car with faulty brakes to a distant workshop is both dangerous and stressful. OnFix Car Repair Mechanic Dubai brings an advanced mobile brake service unit directly to your home, office, or roadside location. Our certified RTA-trained technicians perform comprehensive brake inspections, disc checks, and premium brake pad replacements on-the-spot, guaranteeing your vehicle stops safely and smoothly in any driving condition."
     },
 
     whyChooseUs: {
-        heading: "Why Choose Car Repair Mechanic Dubai for Brake Pad Repair?",
+        heading: "Why Choose OnFix for Brake Pad Repair in Dubai?",
         points: [
-            "24/7 mobile brake repair service across Dubai with 5 to 15 minutes response in Business Bay, Jumeirah, Downtown Dubai, and Dubai Silicon Oasis",
-            "Fast diagnosis for brake issues",
-            "High-quality brake pads and components",
-            "Skilled technicians for all car brands",
-            "Affordable and transparent pricing",
-            "Emergency brake repair service available"
+            "Rapid 5 to 30-minute mobile dispatch across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and all major highways",
+            "Certified master mechanics equipped with professional hydraulic tools and precision gauges",
+            "Use of 100% genuine OEM components and world-class brands (Bosch, TRW, ATE)",
+            "Zero towing required—we replace your brake pads and service your braking system completely onsite",
+            "100% transparent upfront pricing with zero hidden fees or surprise costs",
+            "24/7/365 emergency mobile availability across all residential and commercial Dubai zones"
         ]
     },
 
     problemSignsSection: {
-        heading: "Common Signs Your Brake Pads Need Replacement",
-        description: "Ignoring brake issues can be dangerous. Watch out for these signs:",
+        heading: "Critical Signs Your Brake Pads Need Immediate Replacement",
+        description: "Ignoring worn-out brakes can warp your rotors and lead to complete brake failure. Watch out for these red flags:",
         signs: [
-            "Squealing or grinding noise while braking",
-            "Car pulls to one side when braking",
-            "Brake pedal feels soft or spongy",
-            "Longer stopping distance",
-            "Vibration in steering wheel during braking",
-            "Warning light on dashboard"
+            "High-pitched squealing, screeching, or harsh grinding noises when pressing the brake pedal",
+            "Vehicle pulling sharply to one side during braking",
+            "Brake pedal feeling unusually soft, spongy, or sinking too low",
+            "Noticeably longer stopping distances or delayed response time",
+            "Vibration or pulsing sensation throbbing through the steering wheel when braking",
+            "Illuminated brake warning light or ABS symbol on your dashboard"
         ]
     },
 
     ourProcess: {
-        heading: "Our Brake Pad Repair Process",
+        heading: "Our Onsite Brake Pad Repair Process",
         steps: [
             {
-                title: "Step 1: Brake Inspection",
-                description: "We check brake pads, discs, drums, and fluid levels."
+                title: "Step 1: Rapid Mobile Dispatch & Arrival",
+                description: "Our mobile unit reaches your exact location in Dubai within 5 to 30 minutes of your call."
             },
             {
-                title: "Step 2: Diagnosis & Recommendation",
-                description: "We identify worn parts and recommend the best replacement options."
+                title: "Step 2: Comprehensive Brake Inspection",
+                description: "We thoroughly inspect brake pad thickness, rotor health, caliper movement, and fluid levels."
             },
             {
-                title: "Step 3: Brake Pad Replacement",
-                description: "We replace old brake pads with high-quality parts."
+                title: "Step 3: Onsite Brake Pad Replacement",
+                description: "We carefully remove worn pads, clean guide pins, and install high-performance OEM brake pads right where your car is parked."
             },
             {
-                title: "Step 4: Brake System Check",
-                description: "We inspect discs, drums, and ABS to ensure safe braking."
+                title: "Step 4: System Testing & Bleeding",
+                description: "We check hydraulic pressure, inspect discs, and test fluid integrity to ensure flawless operation."
             },
             {
-                title: "Step 5: Final Test Drive",
-                description: "We test the brakes for smooth stopping and safety assurance."
+                title: "Step 5: Safety Test Drive & Warranty Handover",
+                description: "We perform a controlled test drive, provide a transparent service breakdown, and issue an official warranty."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Brake Parts We Use",
+        heading: "Professional Brake Components & Tools We Use",
         brands: [
-            "Bosch Brake Pads",
-            "TRW Disc & Drum Kits",
-            "ATE Brake Components",
-            "Top-quality brake fluid",
-            "Snap-on Diagnostic Tools"
+            "Bosch High-Performance Ceramic & Semi-Metallic Brake Pads",
+            "TRW Disc Rotors & Drum Brake Kits",
+            "ATE Premium European Brake Components",
+            "Dot 4 High-Temperature Synthetic Brake Fluids",
+            "Advanced digital caliper gauges and hydraulic service tools"
         ],
-        note: "We use only premium brake pads and components to ensure optimal braking performance and long-lasting safety."
+        note: "We utilize top-tier diagnostic equipment and factory-approved friction materials engineered specifically to withstand intense Gulf heat and high-speed braking demands."
     },
 
     ctaSection: {
-        heading: "Brake Pads Worn Out? Book Mobile Brake Repair in Dubai Now",
-        description: "Get fast, professional mobile service anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
-        buttonText: "Call Now for Brake Pad Repair"
+        heading: "Brake Pads Worn Out? Book Onsite Brake Repair in Dubai Now",
+        description: "Skip the workshop queues and driving risks. Get certified mobile mechanics at your location within minutes. Call OnFix Car Repair Mechanic Dubai today at +971 54 141 6509.",
+        buttonText: "Book Brake Pad Repair"
     },
 
     faq: [
         {
-            question: "How often should I replace my brake pads?",
-            answer: "Typically every 30,000–50,000 km, but it depends on driving style, car type, and road conditions."
+            question: "How quickly can OnFix reach my location in Dubai?",
+            answer: "Our mobile mechanic units are strategically positioned across Dubai hubs like Business Bay, Downtown, Marina, and Jumeirah to arrive within 5 to 30 minutes."
         },
         {
-            question: "Do you provide emergency mobile brake repair in Dubai?",
-            answer: "Yes, we provide 24/7 emergency mobile brake pad replacement and inspection."
+            question: "Can you replace my brake pads without towing my car to a garage?",
+            answer: "Yes! 100% of our brake pad replacements, rotor inspections, and fluid checks are performed completely onsite at your home, office, or roadside."
         },
         {
-            question: "Can worn brake pads damage my car?",
-            answer: "Yes, worn pads can damage discs, reduce braking efficiency, and cause safety hazards."
+            question: "How often should car brake pads be replaced in Dubai?",
+            answer: "Typically every 30,000 to 50,000 km, depending on driving habits, vehicle weight, and stop-and-go city traffic conditions."
         },
         {
-            question: "Which brake pad brands do you use?",
-            answer: "We use Bosch, TRW, and ATE premium brake pads for reliability and safety."
+            question: "What happens if I delay replacing worn-out brake pads?",
+            answer: "Worn pads wear down to bare metal, which causes deep grooves in your brake rotors, drastically increases stopping distances, and results in expensive rotor replacements."
         },
         {
-            question: "How long does a brake pad replacement take?",
-            answer: "Mobile brake pad replacement usually takes 45–60 minutes per axle."
+            question: "Do you offer a warranty on brake pad replacements?",
+            answer: "Absolutely. All replaced brake components and mobile installation services are backed by an official warranty for your complete safety and peace of mind."
         }
     ]
 }

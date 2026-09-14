@@ -1,119 +1,120 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const windowMotorRepair = {
-    title: "Car Window Motor Repair Dubai | Power Window Not Working Fix Near You",
+    title: "Car Window Motor Repair Dubai | Power Window Repair & Replacement",
     name: "Car Window Motor Repair",
-    metaTitle: "Car Window Motor Repair Dubai – Power Window Not Working? Fix Near Me",
-    metaDescription: "Power window stuck or not working? Get expert car window motor repair in Dubai with Car Repair Mechanic Dubai. Fast 5 to 15 minutes mobile service, 24/7 onsite diagnosis, window motor repair and replacement for all car brands.",
+    metaTitle: "Car Window Motor Repair Dubai – 24/7 Mobile Power Window Service",
+    metaDescription: "Power window stuck or not working in Dubai? OnFix Car Repair Mechanic Dubai offers 24/7 mobile car window motor repair, regulator replacement, and onsite service.",
 
     features: [
-        "Power window motor diagnostics",
-        "Window motor repair and replacement",
-        "Power window regulator inspection",
-        "Power window switch testing",
-        "Mobile window motor repair anywhere in Dubai",
-        "All car makes and models supported"
+        "Advanced power window motor diagnostics and electrical testing",
+        "Power window regulator and cable mechanism replacement",
+        "Window switch, fuse, and control module troubleshooting",
+        "Onsite mobile window motor repair at your home, office, or roadside",
+        "Rapid 5 to 30-minute mobile dispatch across all Dubai areas",
+        "Support for all European, Japanese, American, and luxury vehicle brands"
     ],
 
     slug: "car-window-motor-repair-dubai",
 
     service_image: serviceImages?.spareParts,
-    service_banner:ServiceBanner.windowMotor,
+    service_banner: ServiceBanner?.windowMotor,
+    
     intro: {
-        heading: "Professional Car Window Motor Repair Service in Dubai",
-        subheading: "Fast Repair for Stuck, Slow, or Non-Working Power Windows",
-        content: "If your car window is stuck, moving slowly, making unusual noises, or refuses to open or close, the window motor may be faulty. Car Repair Mechanic Dubai provides professional window motor repair and replacement services across Dubai. Our experienced technicians diagnose power window problems quickly and restore smooth window operation using quality replacement parts. We offer fast mobile window motor repair at your home, office, roadside, or parking location."
+        heading: "Professional Mobile Car Window Motor Repair in Dubai",
+        subheading: "Fast Onsite Fix for Stuck, Slow, or Non-Working Power Windows",
+        content: "A stuck power window—especially during Dubai's extreme summer heat or unexpected weather—compromises your security, comfort, and safety. Driving to a workshop with a half-open window is a major hassle. OnFix Car Repair Mechanic Dubai brings expert auto-electricians and mobile technicians directly to your location anywhere in Dubai. Whether you are parked at home, in an office basement, or roadside, we diagnose electrical faults, service regulators, and replace faulty window motors on-the-spot."
     },
 
     whyChooseUs: {
-        heading: "Why Choose Car Repair Mechanic Dubai for Window Motor Repair?",
+        heading: "Why Choose OnFix for Window Motor Repair in Dubai?",
         points: [
-            "24/7 mobile window motor repair service across Dubai",
-            "Fast 5 to 15 minutes response in most Dubai locations",
-            "Accurate diagnosis of window motor, regulator, and switch faults",
-            "Experienced technicians for all luxury, Japanese, Korean, American, and European vehicles",
-            "OEM and high-quality compatible window motor replacements",
-            "Affordable pricing with no hidden charges"
+            "24/7 emergency mobile window motor repair and replacement across all Dubai residential and commercial zones",
+            "Rapid 5 to 30-minute mobile response across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and major highways",
+            "Certified auto-electricians equipped with advanced multi-meters and diagnostic tools",
+            "Use of high-grade OEM and direct-fit window motors and regulator assemblies",
+            "Transparent upfront pricing with zero hidden fees or unexpected charges",
+            "Complete convenience—we service your vehicle right where it is parked with zero towing required"
         ]
     },
 
     problemSignsSection: {
-        heading: "Signs Your Car Window Motor Needs Repair",
-        description: "Power window motors usually fail gradually before stopping completely. Look for these common warning signs:",
+        heading: "Critical Signs Your Car Window Motor or Regulator is Failing",
+        description: "Power window systems often show early warning signs before stopping completely. Watch out for these red flags:",
         signs: [
-            "Power window not opening or closing",
-            "Window moves very slowly",
-            "Clicking or grinding noise inside the door",
-            "Window gets stuck halfway",
-            "Power window works intermittently",
-            "Window drops inside the door unexpectedly"
+            "Power window completely stuck or refusing to open or close when pressing the switch",
+            "Window glass moving extremely slowly or struggling to reach the top position",
+            "Loud clicking, grinding, or buzzing noises coming from inside the door panel",
+            "Window dropping suddenly inside the door cavity or tilting unevenly",
+            "Power window working intermittently or only responding sometimes",
+            "Burning smell or clicking fuse when attempting to operate the window switch"
         ]
     },
 
     ourProcess: {
-        heading: "Our Window Motor Repair Process",
+        heading: "Our Seamless Onsite Window Motor Repair Process",
         steps: [
             {
-                title: "Step 1: Complete Power Window Diagnosis",
-                description: "We inspect the window motor, regulator, switch, fuse, wiring, and electrical system."
+                title: "Step 1: Instant Mobile Dispatch",
+                description: "Contact us via call or WhatsApp with your vehicle details and location in Dubai for rapid mobile unit dispatch."
             },
             {
-                title: "Step 2: Fault Identification",
-                description: "Our technician confirms whether the problem is caused by the window motor, regulator, switch, wiring, or control module."
+                title: "Step 2: Electrical & Mechanical Diagnostics",
+                description: "We carefully remove the door panel to inspect the motor, switches, wiring harness, and window regulator."
             },
             {
-                title: "Step 3: Window Motor Repair or Replacement",
-                description: "The faulty window motor is repaired whenever possible or replaced with a high-quality OEM or compatible unit."
+                title: "Step 3: Onsite Repair or Replacement",
+                description: "If the motor or regulator is faulty, we replace or repair it onsite using high-quality OEM-grade components."
             },
             {
-                title: "Step 4: Power Window Calibration & Testing",
-                description: "We test the complete window operation to ensure smooth, quiet, and reliable movement."
+                title: "Step 4: Alignment & Lubrication Check",
+                description: "We lubricate window tracks, align the glass properly, and test smooth up-and-down movement."
             },
             {
-                title: "Step 5: Final Quality Inspection",
-                description: "A final inspection is performed to verify proper window alignment, safety, and overall performance."
+                title: "Step 5: Final Testing & Handover",
+                description: "We test all switches and automated safety features to guarantee flawless operation before handing over your car."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Window Motor Parts & Tools We Use",
+        heading: "OEM Window Motors & Professional Diagnostic Tools",
         brands: [
-            "OEM Window Motors",
-            "Bosch Electrical Components",
-            "Denso Electrical Parts",
-            "Professional Automotive Diagnostic Tools",
-            "Digital Electrical Testing Equipment"
+            "OEM Genuine & Direct-Fit Window Motor Assemblies",
+            "Bosch & Denso Automotive Electrical Components",
+            "Heavy-Duty Window Regulator & Cable Repair Kits",
+            "Advanced Digital Multimeters & Circuit Testers",
+            "Precision door panel removal and trim tools"
         ],
-        note: "We use only premium-quality window motors and electrical components that match your vehicle specifications for reliable performance and long-lasting durability."
+        note: "We utilize manufacturer-grade electrical components and precision tools to ensure quiet, smooth, and durable power window operation under all weather conditions."
     },
 
     ctaSection: {
-        heading: "Power Window Not Working? Get Window Motor Repair in Dubai Today",
-        description: "Don't let a faulty power window affect your comfort or vehicle security. Contact Car Repair Mechanic Dubai for fast mobile window motor repair anywhere in Dubai. Call +971 56 831 6301 for immediate assistance.",
-        buttonText: "Call Now for Window Motor Repair"
+        heading: "Power Window Stuck in Dubai? Get Onsite Repair Today!",
+        description: "Don't compromise your vehicle's security and comfort. Get certified mobile mechanics at your doorstep. Call OnFix Car Repair Mechanic Dubai at +971 54 141 6509.",
+        buttonText: "Book Window Motor Repair"
     },
 
     faq: [
         {
-            question: "What causes a car window motor to fail?",
-            answer: "A window motor can fail due to normal wear, electrical faults, moisture damage, overheating, or a worn window regulator that puts extra strain on the motor."
+            question: "Can you fix or replace a car window motor onsite without workshop visits?",
+            answer: "Yes! Over 95% of power window motor and regulator replacements are performed completely onsite at your home, office parking lot, or roadside location in Dubai."
         },
         {
-            question: "Can you repair a window motor instead of replacing it?",
-            answer: "Yes. If the motor can be repaired safely and reliably, we will repair it. If the damage is severe, we recommend replacing it with a quality replacement motor."
+            question: "How do I know if the problem is the window motor or the regulator?",
+            answer: "If you hear a grinding noise or the window drops crooked, the regulator is likely broken. If you hear nothing or just a faint click, the motor or switch might have failed. Our technician inspects the system onsite to give an accurate diagnosis."
         },
         {
-            question: "Why is my power window moving slowly?",
-            answer: "A slow-moving window may be caused by a weak window motor, damaged regulator, worn window tracks, or electrical issues affecting motor performance."
+            question: "How quickly can OnFix reach my location for a stuck window?",
+            answer: "Our mobile units are strategically positioned across Dubai hubs like Business Bay, Downtown, Marina, and Jumeirah to arrive at your location within 5 to 30 minutes."
         },
         {
-            question: "Do you provide mobile window motor repair in Dubai?",
-            answer: "Yes. We offer 24/7 mobile window motor repair and replacement services anywhere in Dubai, including homes, offices, roadside locations, and parking areas."
+            question: "Do you provide a warranty on window motor replacements?",
+            answer: "Yes, all window motor assemblies, regulators, and electrical repairs performed by OnFix are backed by a solid quality warranty for your complete peace of mind."
         },
         {
-            question: "How long does window motor repair take?",
-            answer: "Most window motor repairs or replacements are completed within 1 to 2 hours, depending on the vehicle model and the condition of the power window system."
+            question: "Do you support luxury and European car brands for window repairs?",
+            answer: "Absolutely. Our technicians are experienced in handling complex power window systems and anti-pinch sensors across European, Japanese, American, and luxury vehicle brands."
         }
     ]
 };

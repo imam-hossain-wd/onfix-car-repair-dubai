@@ -1,120 +1,120 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const fuelPumpRepair = {
-    title: "Car Fuel Pump Repair Dubai | Engine Not Starting & Fuel Issue Fix Near You",
+    title: "Car Fuel Pump Repair Dubai | Onsite Mobile Fuel Pump Replacement Near You",
     name: "Car Fuel Pump Repair",
-    metaTitle: "Car Fuel Pump Repair Dubai – Engine Not Starting? Fix Near Me",
-    metaDescription: "Car not starting or losing power? Get expert fuel pump repair in Dubai with Car Repair Mechanic Dubai fast 5 to 15 minutes mobile service. 24/7 onsite diagnosis and replacement anywhere in Dubai.",
+    metaTitle: "Car Fuel Pump Repair Dubai – 24/7 Mobile Fuel Pump Replacement",
+    metaDescription: "Car not starting in Dubai? OnFix Car Repair Mechanic Dubai offers 24/7 mobile car fuel pump repair, fuel pressure testing, and on-site replacement at your location.",
 
     features: [
-        "Fuel pump diagnostics and repair",
-        "Fuel system inspection and pressure testing",
-        "Fuel pump replacement service",
-        "Engine starting and performance check",
-        "Mobile fuel pump repair anywhere in Dubai",
-        "All car makes and models supported"
+        "Advanced fuel system pressure testing & electronic diagnostics",
+        "Fuel pump relay, filter, and assembly inspection & troubleshooting",
+        "Professional fuel pump replacement using 100% genuine OEM parts",
+        "Engine starting, ignition, and fuel delivery performance check",
+        "24/7 mobile fuel pump service anywhere in Dubai (Home, Office, Roadside)",
+        "Support for all European, Japanese, American, and Korean vehicle brands"
     ],
 
     slug: "car-fuel-pump-repair-dubai",
 
     service_image: serviceImages?.spareParts,
-    service_banner: ServiceBanner.fuelPump,
+    service_banner: ServiceBanner?.fuelPump,
 
     intro: {
-        heading: "Professional Car Fuel Pump Repair Service in Dubai",
-        subheading: "Fix Engine Starting & Fuel Delivery Problems Fast",
-        content: "If your car is struggling to start, losing power, or suddenly stops while driving, the fuel pump may be the issue. Car Repair Mechanic Dubai's car fuel pump repair service focuses on accurate diagnosis and fast repair of fuel delivery problems. We provide mobile fuel pump repair and replacement anywhere in Dubai, ensuring your engine receives the right fuel pressure for smooth and reliable performance."
+        heading: "Professional Mobile Car Fuel Pump Repair in Dubai",
+        subheading: "Fix Engine Starting & Fuel Delivery Failures Onsite",
+        content: "If your engine cranks but refuses to start, or if your car suddenly loses power and stalls while driving, a failing fuel pump is often the culprit. Towing a dead vehicle to a traditional workshop can be expensive and disruptive. OnFix Car Repair Mechanic Dubai brings expert mobile fuel delivery specialists directly to your home, office parking lot, or roadside location anywhere in Dubai. We perform precision fuel pressure diagnostics, electrical checks, and complete fuel pump replacements on-the-spot to get you safely back on the road."
     },
 
     whyChooseUs: {
-        heading: "Why Choose Car Repair Mechanic Dubai for Fuel Pump Repair?",
+        heading: "Why Choose OnFix for Car Fuel Pump Repair in Dubai?",
         points: [
-            "24/7 mobile fuel pump repair service across Dubai",
-            "Accurate fuel system diagnostics and pressure testing",
-            "Experienced technicians for all car brands",
-            "5 to 15 minutes response across Business Bay, Jumeirah, Downtown Dubai, and Dubai Silicon Oasis",
-            "OEM and high-quality fuel pump replacements",
-            "Transparent pricing with no hidden charges"
+            "24/7 emergency mobile dispatch across all Dubai residential areas, commercial hubs, and highways",
+            "Rapid 5 to 30-minute mobile arrival across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and beyond",
+            "Certified auto-technicians equipped with professional fuel pressure gauges and diagnostic tools",
+            "Use of high-grade OEM and direct-fit fuel pump assemblies for long-lasting reliability",
+            "100% transparent upfront pricing with zero hidden fees or unexpected charges",
+            "Complete convenience—we service your car right where it is parked with zero towing required"
         ]
     },
 
     problemSignsSection: {
-        heading: "Signs Your Car Fuel Pump Needs Repair",
-        description: "Fuel pump issues can affect engine performance and leave you stranded. Watch for these warning signs:",
+        heading: "Critical Signs Your Car Fuel Pump Needs Urgent Repair",
+        description: "Fuel pump failure can leave you stranded unexpectedly. Watch out for these warning indicators:",
         signs: [
-            "Engine cranks but does not start",
-            "Loss of power while driving",
-            "Car jerking or sputtering at high speed",
-            "Difficulty starting the engine",
-            "Unusual whining noise from fuel tank",
-            "Engine stalls suddenly while driving"
+            "Engine cranks continuously but fails to start or takes multiple attempts to turn over",
+            "Sudden loss of engine power, sputtering, or jerking while accelerating or driving uphill",
+            "Loud whining, humming, or buzzing noise coming from the rear or fuel tank area",
+            "Engine stalling unexpectedly after driving for a short period",
+            "Surging speed while maintaining a steady throttle on the highway",
+            "Check engine light illuminated due to fuel pressure or lean mixture fault codes"
         ]
     },
 
     ourProcess: {
-        heading: "Our Fuel Pump Repair Process",
+        heading: "Our Seamless Onsite Fuel Pump Repair Process",
         steps: [
             {
-                title: "Step 1: Diagnosis & Inspection",
-                description: "We check fuel pressure, pump performance, and fuel system condition."
+                title: "Step 1: Rapid Mobile Dispatch",
+                description: "Contact us via call or WhatsApp with your vehicle details and location for instant mobile unit dispatch."
             },
             {
-                title: "Step 2: Fault Identification",
-                description: "We confirm whether the issue is fuel pump, relay, or fuel filter."
+                title: "Step 2: Pressure & Electrical Testing",
+                description: "We connect professional fuel pressure gauges and diagnostic scanners to test pump performance and voltage."
             },
             {
-                title: "Step 3: Repair or Replacement",
-                description: "Faulty fuel pump is repaired or replaced with a high-quality unit."
+                title: "Step 3: Onsite Pump Replacement",
+                description: "If faulty, we safely replace the fuel pump assembly or relay right where your car is parked using OEM parts."
             },
             {
-                title: "Step 4: Fuel System Testing",
-                description: "We test fuel pressure and engine performance after repair."
+                title: "Step 4: Fuel System Flushing & Priming",
+                description: "We prime the fuel lines, check for leaks, and clear any stored fuel system fault codes."
             },
             {
-                title: "Step 5: Final Check",
-                description: "Complete system is checked to ensure smooth engine operation."
+                title: "Step 5: Road-Testing & Handover",
+                description: "We test-run your vehicle to guarantee smooth fuel delivery, proper pressure, and reliable engine performance."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Fuel Pump Parts & Tools We Use",
+        heading: "OEM Fuel Pumps & Professional Diagnostic Tools We Use",
         brands: [
-            "Bosch Fuel Pumps",
-            "Denso Fuel Pumps",
-            "OEM Fuel Pump Assemblies",
-            "Fuel Pressure Testers",
-            "Auto Diagnostic Tools"
+            "Bosch & Denso High-Pressure Fuel Pumps",
+            "OEM Factory Fuel Pump Assemblies & Modules",
+            "Professional Fuel Pressure Testing Kits & Manometers",
+            "Advanced OBD-II Multi-Brand Diagnostic Scanners",
+            "High-grade fuel-resistant replacement lines and relays"
         ],
-        note: "We use only high-quality and vehicle-compatible fuel pumps to ensure reliable fuel delivery and long-term engine performance."
+        note: "We utilize manufacturer-approved fuel components and professional pressure testing equipment to ensure optimal fuel delivery, efficiency, and safety under demanding driving conditions."
     },
 
     ctaSection: {
-        heading: "Car Not Starting? Get Fuel Pump Repair in Dubai Now",
-        description: "Get fast, professional mobile service anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
-        buttonText: "Call Now for Fuel Pump Repair"
+        heading: "Car Not Starting? Get Onsite Fuel Pump Repair in Dubai Today",
+        description: "Skip the towing fees and workshop queues. Get certified mobile mechanics at your doorstep. Call OnFix Car Repair Mechanic Dubai today at +971 54 141 6509.",
+        buttonText: "Book Fuel Pump Repair"
     },
 
     faq: [
         {
-            question: "What does a fuel pump do in a car?",
-            answer: "The fuel pump delivers fuel from the tank to the engine at the correct pressure for proper combustion."
+            question: "Can you replace a car fuel pump onsite without towing?",
+            answer: "Yes! Over 90% of fuel pump replacements and diagnostics are performed completely onsite at your home, office parking lot, or roadside location in Dubai."
         },
         {
-            question: "How do I know if my fuel pump is bad?",
-            answer: "Common signs include engine not starting, loss of power, jerking, stalling, and unusual noise from the fuel tank."
+            question: "How quickly can OnFix reach my location for a dead car?",
+            answer: "Our mobile units are strategically positioned across Dubai hubs like Business Bay, Downtown, Marina, and Jumeirah to arrive at your location within 5 to 30 minutes."
         },
         {
-            question: "Can a faulty fuel pump stop the car completely?",
-            answer: "Yes, if the fuel pump fails, the engine will not receive fuel and the car will not start or may stop while driving."
+            question: "What causes a car fuel pump to fail?",
+            answer: "Common causes include driving consistently on low fuel (which causes the pump to overheat), contaminated fuel, electrical relay failure, or normal wear and tear over time."
         },
         {
-            question: "Do you provide mobile fuel pump repair in Dubai?",
-            answer: "Yes, we offer 24/7 mobile fuel pump repair and replacement service anywhere in Dubai."
+            question: "Do you provide a warranty on fuel pump replacements?",
+            answer: "Absolutely. All replaced fuel pump assemblies, components, and mobile repair services are backed by an official warranty for your complete peace of mind."
         },
         {
-            question: "How long does fuel pump repair take?",
-            answer: "Most fuel pump repairs or replacements take 1–2 hours depending on the vehicle and accessibility."
+            question: "Do you support all car brands for fuel pump repairs?",
+            answer: "Yes, our certified technicians are experienced with fuel delivery systems across all major Asian, European, American, and luxury vehicle brands."
         }
     ]
 }

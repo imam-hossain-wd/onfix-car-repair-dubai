@@ -1,119 +1,120 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const batteryReplacementService = {
-    title: "Car Battery Replacement Dubai | 24/7 Mobile Battery Service Near You",
+    title: "Car Battery Replacement Dubai | 24/7 Mobile Car Battery Change Near Me",
     name: "Car Battery Replacement",
     metaTitle: "Car Battery Replacement Dubai – 24/7 Mobile Battery Service Near Me",
-    metaDescription: "Looking for car battery replacement in Dubai? Get fast 24/7 mobile battery service with on-site installation, battery testing, and warranty with Car Repair Mechanic Dubai. We reach you anywhere in Dubai in 5 to 15 minutes.",
+    metaDescription: "Car won't start in Dubai? OnFix Car Repair Mechanic Dubai provides 24/7 mobile car battery replacement, on-site testing, and OEM battery installation at your location within 5-30 minutes.",
     popular: true,
 
     features: [
-        "On-site car battery replacement Dubai",
-        "Advanced battery health & voltage testing",
-        "High-quality branded batteries with warranty",
-        "Terminal cleaning & electrical system check",
-        "Emergency jump start support",
-        "Suitable for all car makes & models"
+        "24/7 emergency mobile car battery replacement across Dubai",
+        "Advanced digital battery health & alternator charging tests",
+        "Genuine high-performance branded batteries (AC Delco, Amaron, Varta, Bosch) with official warranty",
+        "Battery terminal cleaning, corrosion removal & electrical reset",
+        "Onsite emergency jump start and backup power support",
+        "Zero towing required – quick replacement right at your home, office, or roadside"
     ],
 
     slug: "car-battery-replacement-dubai",
     service_image: serviceImages?.carBattery,
-    service_banner: ServiceBanner.batteryReplacement,
+    service_banner: ServiceBanner?.batteryReplacement,
+
     intro: {
-        heading: "24/7 Car Battery Replacement Service in Dubai",
-        subheading: "Fast, Reliable & On-Demand Mobile Battery Service",
-        content: "A dead car battery can leave you stranded anytime—at home, in parking, or on the road. Car Repair Mechanic Dubai's professional car battery replacement service is designed for fast response and complete convenience. We provide mobile battery replacement anywhere in Dubai, ensuring your car gets back on the road without delay. Our technicians carry high-quality batteries for all vehicle types and use advanced tools to test and replace your battery safely and efficiently."
+        heading: "24/7 Professional Mobile Car Battery Replacement in Dubai",
+        subheading: "Fast Onsite Battery Change & Jump-Start Service Across All Dubai Communities",
+        content: "A dead car battery can happen unexpectedly—leaving you stranded at home, in an office parking garage, or on a busy highway under Dubai's intense heat. Traditional towing to a service center is frustrating and time-consuming. OnFix Car Repair Mechanic Dubai delivers an advanced mobile battery replacement workshop directly to your exact location. Our expert technicians arrive within 5 to 30 minutes equipped with diagnostic equipment and premium, climate-resistant batteries to get your vehicle running instantly."
     },
 
     whyChooseUs: {
-        heading: "Why Choose Car Repair Mechanic Dubai for Car Battery Replacement?",
+        heading: "Why Choose OnFix for Car Battery Replacement in Dubai?",
         points: [
-            "24/7 emergency mobile battery replacement across Dubai",
-            "Fast response time – reach you within 5 to 15 minutes in Business Bay, Jumeirah, Downtown Dubai, and Dubai Silicon Oasis",
-            "Experienced technicians for all car brands",
-            "Genuine batteries with manufacturer warranty",
-            "Transparent pricing with no hidden charges",
-            "Complete battery and charging system check"
+            "Rapid 5 to 30-minute mobile dispatch across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and all major highways",
+            "Certified auto-technicians equipped with professional digital battery load testers",
+            "100% genuine factory-certified batteries (AC Delco, Amaron, Varta, Bosch, Exide) designed for extreme Gulf weather",
+            "Zero towing fees and zero workshop delays—everything is handled completely on-the-spot",
+            "Transparent upfront pricing with zero hidden charges or surprise costs",
+            "24/7/365 emergency mobile availability across all Dubai residential and commercial zones"
         ]
     },
 
     problemSignsSection: {
-        heading: "Signs Your Car Battery Needs Replacement",
-        description: "Identifying battery issues early can help you avoid sudden breakdowns and costly delays.",
+        heading: "Critical Signs Your Car Battery Is Failing",
+        description: "Catching battery failure early prevents sudden roadside breakdowns. Look out for these warning indicators:",
         signs: [
-            "Slow engine start or clicking sound",
-            "Car not starting at all",
-            "Dim headlights or electrical issues",
-            "Battery warning light on dashboard",
-            "Frequent need for jump start",
-            "Battery older than 2–3 years"
+            "Slow engine crank or a distinct clicking sound when turning the key or push-to-start button",
+            "Vehicle refusing to start completely, requiring repeated jump-starts",
+            "Dim headlights, interior lights, or dashboard electronics flickering",
+            "Illuminated battery warning light or electrical fault symbol on your dashboard",
+            "Battery age exceeding 2 to 3 years, especially under Dubai's harsh summer heat",
+            "Bloated, swollen battery case or noticeable white/green corrosive buildup on terminals"
         ]
     },
 
     ourProcess: {
-        heading: "Our Car Battery Replacement Process",
+        heading: "Our Onsite Car Battery Replacement Process",
         steps: [
             {
-                title: "Step 1: Book Your Service",
-                description: "Call or WhatsApp us with your location and car details."
+                title: "Step 1: Rapid Mobile Dispatch & Arrival",
+                description: "We dispatch a mobile unit to your exact Dubai location within 5 to 30 minutes of your call."
             },
             {
-                title: "Step 2: Quick Arrival",
-                description: "Our mobile technician reaches your location anywhere in Dubai in 5 to 15 minutes."
+                title: "Step 2: Advanced Battery & Charging System Test",
+                description: "We perform a digital load test on your battery and check alternator output to confirm the root cause."
             },
             {
-                title: "Step 3: Battery Testing",
-                description: "We perform a full battery and charging system diagnosis."
+                title: "Step 3: Safe Removal & Terminal Cleaning",
+                description: "The old battery is safely disconnected, and terminals are cleaned of corrosive buildup."
             },
             {
-                title: "Step 4: Battery Replacement",
-                description: "Old battery removed and replaced with a high-quality new battery."
+                title: "Step 4: New OEM Battery Installation",
+                description: "We install a premium, climate-rated battery matching your exact vehicle specifications with proper securement."
             },
             {
-                title: "Step 5: Final Check & Handover",
-                description: "We test the system and provide warranty details."
+                title: "Step 5: Final Calibration & Warranty Handover",
+                description: "We test electrical systems, clear any error codes, and issue official warranty documentation."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Battery Brands & Tools We Use",
+        heading: "Premium Battery Brands & Diagnostic Tools We Use",
         brands: [
-            "AC Delco",
-            "Amaron",
-            "Exide",
-            "Bosch",
-            "Varta"
+            "AC Delco & Amaron Maintenance-Free Batteries",
+            "Varta & Bosch High-Performance AGM/EFB Batteries",
+            "Exide Heavy-Duty Commercial & Passenger Car Batteries",
+            "Advanced Digital Battery Load & Conductance Testers",
+            "Corrosion-resistant terminal protectors and backup memory savers"
         ],
-        note: "We install only genuine, vehicle-compatible batteries with warranty to ensure long-lasting performance in Dubai’s extreme weather conditions."
+        note: "We install only genuine, high-cranking batteries engineered specifically to withstand Dubai's extreme ambient temperatures and demanding electrical loads."
     },
 
     ctaSection: {
-        heading: "Need Car Battery Replacement Near You in Dubai?",
-        description: "Get fast, professional mobile service anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
-        buttonText: "Call Now for Battery Replacement"
+        heading: "Car Won't Start? Get Onsite Battery Replacement in Dubai Now",
+        description: "Skip the towing hassle and waiting lines. Get professional mobile battery replacement at your location within minutes. Call OnFix Car Repair Mechanic Dubai at +971 54 141 6509.",
+        buttonText: "Book Battery Replacement"
     },
 
     faq: [
         {
-            question: "How long does car battery replacement take?",
-            answer: "Our mobile battery replacement service usually takes 30–45 minutes including testing and installation."
+            question: "How quickly can OnFix reach my location in Dubai?",
+            answer: "Our mobile units are stationed strategically across Dubai hubs like Business Bay, Marina, Downtown, and Jumeirah to arrive at your location within 5 to 30 minutes."
         },
         {
-            question: "Do you provide battery replacement at home or roadside?",
-            answer: "Yes, we offer fully mobile car battery replacement anywhere in Dubai including home, office, parking, and roadside."
+            question: "Do you provide mobile battery replacement at home or roadside?",
+            answer: "Yes! We provide fully mobile battery replacement directly where your car is parked—whether at your home garage, underground parking, office, or roadside."
         },
         {
-            question: "Which car battery brands do you use?",
-            answer: "We use trusted brands like AC Delco, Amaron, Bosch, Exide, and Varta with official warranty."
+            question: "What battery brands do you offer?",
+            answer: "We supply top-tier, manufacturer-approved battery brands including AC Delco, Amaron, Varta, Bosch, and Exide, all backed by an official warranty."
         },
         {
-            question: "How long does a car battery last in Dubai?",
-            answer: "Due to extreme heat, most car batteries in Dubai last between 2 to 3 years."
+            question: "How long do car batteries typically last in Dubai?",
+            answer: "Due to extreme summer heat and heavy AC usage, car batteries in Dubai generally last between 2 to 3 years before losing cranking power."
         },
         {
-            question: "Do you also provide jump start service?",
-            answer: "Yes, we provide emergency jump start service and can replace the battery if required."
+            question: "Do you also offer emergency jump-start services?",
+            answer: "Yes, we provide emergency jump-start support. If your battery is completely dead or past its lifespan, we can perform an immediate onsite replacement."
         }
     ]
 }

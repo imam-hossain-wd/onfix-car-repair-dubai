@@ -1,122 +1,120 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const emergancyCarRepairService = {
-    title: "Emergency Car Repair Dubai | 24/7 Mobile Roadside Assistance",
+    title: "Emergency Car Repair Dubai | 24/7 Mobile Roadside Assistance & Mechanic",
     name: "Emergency Car Repair",
-    metaTitle: "Emergency Car Repair Dubai – Fast 24/7 Mobile Mechanic Service",
-    metaDescription: "Stuck on the road in Dubai? Our 24/7 emergency car repair service with Car Repair Mechanic Dubai provides fast 5 to 15 minutes mobile mechanics at your location. Battery, starter, AC, brakes, and full car repair solutions.",
+    metaTitle: "Emergency Car Repair Dubai – 24/7 Mobile Mechanic & Roadside Service",
+    metaDescription: "Stuck on the road in Dubai? OnFix Car Repair Mechanic Dubai provides 24/7 emergency mobile car repair, roadside assistance, battery jump-start, and onsite fixes within minutes.",
 
     features: [
-        "24/7 mobile emergency car repair",
-        "Battery replacement and jump start",
-        "Starter motor repair",
-        "Brake and AC repair onsite",
-        "Engine diagnostics & repair",
-        "Oil change & fluid top-up",
-        "Roadside assistance across Dubai"
+        "24/7 emergency mobile car repair and roadside breakdown assistance",
+        "Instant battery testing, jump-start & onsite replacement",
+        "Starter motor, alternator & electrical troubleshooting",
+        "Emergency brake repair & AC cooling restoration onsite",
+        "Engine diagnostics, overheating control & coolant leak fixes",
+        "Rapid mobile dispatch across all Dubai highways and communities"
     ],
 
     slug: "emergency-car-repair-dubai",
 
     service_image: serviceImages?.carRepair,
-    service_banner: ServiceBanner.emergancyRepair,
+    service_banner: ServiceBanner?.emergancyRepair,
 
     intro: {
-        heading: "Fast Emergency Car Repair in Dubai",
-        subheading: "Mobile Mechanics at Your Doorstep 24/7",
-        content: "Car Repair Mechanic Dubai's emergency car repair service gets you back on the road quickly. Whether your car won’t start, battery is dead, brakes fail, or engine has issues, our expert mechanics come to your location and fix it onsite. We provide fast, reliable, and affordable emergency car repair throughout Dubai."
+        heading: "Fast 24/7 Emergency Car Repair in Dubai",
+        subheading: "Onsite Mobile Mechanics Ready to Assist You Anywhere, Anytime",
+        content: "Getting stranded on a busy Dubai highway or finding your car won't start when you're late for work is deeply stressful. Waiting hours for a tow truck can ruin your day. OnFix Car Repair Mechanic Dubai provides 24/7 emergency mobile car repair and roadside assistance across Dubai. Our fully equipped emergency vans and certified mechanics arrive at your location rapidly to handle battery dead-locks, starter failures, overheating, brake issues, and sudden breakdowns right on the spot—saving you towing costs and workshop waiting times."
     },
 
     whyChooseUs: {
-        heading: "Why Choose Car Repair Mechanic Dubai for Emergency Car Repair?",
+        heading: "Why Choose OnFix for Emergency Car Repair in Dubai?",
         points: [
-            "Immediate 5 to 15 minutes response across Business Bay, Jumeirah, Downtown Dubai, and Dubai Silicon Oasis 24/7",
-            "Experienced certified mechanics",
-            "Onsite diagnostics and repairs",
-            "Transparent and affordable pricing",
-            "Fast battery replacement, jump start, and starter repair",
-            "Professional service with warranty on parts"
+            "24/7/365 emergency response across all Dubai residential areas, commercial hubs, and highways",
+            "Rapid mobile dispatch (typically within 5 to 30 minutes) to Business Bay, Downtown, Marina, Jumeirah, and beyond",
+            "Certified and experienced mobile mechanics equipped with advanced diagnostic tools",
+            "Immediate roadside solutions—battery swaps, starter repairs, fuel delivery, and minor fixes onsite",
+            "100% transparent upfront pricing with zero hidden fees or emergency surcharges",
+            "Reliable OEM parts and components backed by an official warranty"
         ]
     },
 
     problemSignsSection: {
-        heading: "Signs You Need Emergency Car Repair",
-        description: "Call us immediately if you notice these problems:",
+        heading: "When to Call for Emergency Car Repair",
+        description: "If you experience any of these sudden car troubles, call OnFix immediately for emergency dispatch:",
         signs: [
-            "Car won’t start",
-            "Dead battery or electrical issues",
-            "Brake failure or unusual brake noise",
-            "AC stops cooling suddenly",
-            "Overheating or radiator leak",
-            "Check engine light on",
-            "Strange engine noises or stalling"
+            "Car completely refuses to start or makes clicking noises (dead battery or starter failure)",
+            "Sudden engine overheating or steam billowing from under the hood",
+            "Brake failure, grinding noises, or dangerously reduced stopping power",
+            "Car AC failing completely during scorching Dubai summers",
+            "Check engine light flashing accompanied by sudden loss of power or engine stalling",
+            "Unexplained fluid pools under the car or severe electrical malfunctions"
         ]
     },
 
     ourProcess: {
-        heading: "Emergency Car Repair Process",
+        heading: "Our Rapid Emergency Response Process",
         steps: [
             {
-                title: "Step 1: Rapid Response",
-                description: "Contact us via call or WhatsApp and our mechanic reaches your location in 5 to 15 minutes."
+                title: "Step 1: Emergency Call & Location Share",
+                description: "Call or message us with your exact roadside or parking location and vehicle symptoms."
             },
             {
-                title: "Step 2: Onsite Inspection",
-                description: "We quickly assess the problem and provide a clear solution."
+                title: "Step 2: Rapid Mobile Dispatch",
+                description: "Our nearest emergency mobile unit is dispatched instantly to your location."
             },
             {
-                title: "Step 3: Repair & Replacement",
-                description: "Battery, starter, brakes, AC, or engine repairs done onsite efficiently."
+                title: "Step 3: Onsite Diagnosis & Fix",
+                description: "We diagnose the breakdown and perform immediate repairs or component swaps onsite."
             },
             {
-                title: "Step 4: Test & Safety Check",
-                description: "We test your car to ensure it is fully operational and safe to drive."
+                title: "Step 4: Safety Testing & Verification",
+                description: "We test-run your vehicle to ensure it is completely safe and operational."
             },
             {
-                title: "Step 5: Documentation & Warranty",
-                description: "Receive service confirmation and warranty for replaced parts."
+                title: "Step 5: Road Recovery & Handover",
+                description: "You're safely back on the road with an official warranty on parts and service."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Premium Tools & Parts for Emergency Repairs",
+        heading: "Professional Emergency Tools & Certified Brands We Use",
         brands: [
-            "Bosch Batteries & Starters",
-            "Liqui Moly Fluids & Oils",
-            "Snap-on & Launch Diagnostics",
-            "TRW Brake Pads & Components",
-            "High-quality OEM replacement parts"
+            "Bosch & Varta High-Performance Batteries & Starters",
+            "Liqui Moly & Castrol Premium Fluids & Oils",
+            "Snap-on & Launch Portable Diagnostic Scanners",
+            "TRW & Brembo Emergency Brake Components",
+            "Heavy-duty mobile service vehicle kits and safety equipment"
         ],
-        note: "We use only trusted brands and professional tools to ensure safe and reliable repairs."
+        note: "Our emergency mobile units carry professional-grade tools and trusted OEM-grade parts to handle critical breakdowns swiftly and safely right where you are stranded."
     },
 
     ctaSection: {
-        heading: "Need Emergency Car Repair in Dubai? Call Now!",
-        description: "Get fast, professional mobile service anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
-        buttonText: "Book Emergency Car Repair"
+        heading: "Stranded in Dubai? Call OnFix Emergency Mechanics Now!",
+        description: "Get fast, 24/7 mobile roadside assistance anywhere in Dubai. Don't wait for a tow truck. Call OnFix Car Repair Mechanic Dubai immediately at +971 54 141 6509.",
+        buttonText: "Call Emergency Mobile Mechanic"
     },
 
     faq: [
         {
-            question: "How fast can a mechanic reach me in Dubai?",
-            answer: "Our emergency mechanics typically reach within 5 to 15 minutes depending on traffic and your location."
+            question: "How fast can your emergency mechanic reach me in Dubai?",
+            answer: "Our mobile emergency units are strategically stationed across Dubai to ensure rapid dispatch, typically arriving at your location within 5 to 30 minutes depending on traffic."
         },
         {
-            question: "Do you provide 24/7 service?",
-            answer: "Yes, our emergency car repair service operates 24/7 throughout Dubai."
+            question: "Do you operate your emergency car repair service 24/7?",
+            answer: "Yes! Our emergency mobile repair and roadside assistance service is available 24 hours a day, 7 days a week, 365 days a year across Dubai."
         },
         {
-            question: "Can you replace a dead battery onsite?",
-            answer: "Yes, we carry high-quality batteries and can replace them immediately at your location."
+            question: "Can you replace a dead car battery or starter motor on the roadside?",
+            answer: "Absolutely. We carry stock of top-grade batteries and components in our mobile vans, allowing us to perform immediate battery replacements, jump-starts, and starter fixes onsite."
         },
         {
-            question: "Do you fix all car brands?",
-            answer: "Yes, we repair all major car brands including Toyota, BMW, Mercedes, Honda, Nissan, and more."
+            question: "Do you service all car makes and models during emergencies?",
+            answer: "Yes, our certified mechanics are trained to handle emergency repairs for all major vehicle brands, including Japanese, Korean, American, and European luxury cars."
         },
         {
-            question: "Are your emergency services expensive?",
-            answer: "No, we provide affordable, transparent pricing with no hidden charges."
+            question: "Do I need to tow my car to a workshop for emergency repairs?",
+            answer: "Over 85% of common emergency breakdowns (batteries, starters, alternators, minor leaks, belt snaps, and computer faults) are successfully resolved completely onsite, saving you expensive towing fees."
         }
     ]
 }

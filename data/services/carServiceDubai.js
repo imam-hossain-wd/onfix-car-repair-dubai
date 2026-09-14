@@ -1,20 +1,19 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const carServiceDubai = {
-  title: "Car Service Dubai | Full Car Repair & Maintenance at Your Doorstep",
+  title: "Car Service Dubai | 24/7 Mobile Car Repair & Maintenance Service",
   name: "Car Service Dubai",
-  metaTitle: "Car Service Dubai – Mobile Car Repair & Maintenance Near You",
-  metaDescription: "Looking for car service in Dubai? Get complete car repair, maintenance, oil change, battery replacement, AC repair & more at your location with Car Repair Mechanic Dubai. Fast 5 to 15 minutes response.",
+  metaTitle: "Car Service Dubai – 24/7 Mobile Car Repair & Full Maintenance Service",
+  metaDescription: "Need reliable car service in Dubai? OnFix Car Repair Mechanic Dubai offers 24/7 mobile car repair, routine maintenance, oil changes, AC repair & diagnostics at your doorstep.",
 
   features: [
-    "Full car repair and maintenance service",
-    "Car battery replacement & jump start",
-    "Car AC repair and gas refill",
-    "Brake pad repair & replacement",
-    "Engine oil and filter change",
-    "Alternator & starter repair",
-    "Radiator & cooling system repair",
-    "Emergency roadside assistance in Dubai"
+    "Comprehensive car repair, scheduled maintenance & full computer diagnostics",
+    "Professional car battery testing, jump-start & instant replacement",
+    "Car AC repair, leak detection & refrigerant gas refill",
+    "Brake pad, rotor replacement & hydraulic system service",
+    "Synthetic engine oil and high-efficiency filter change",
+    "Alternator, starter motor, and cooling system radiator repair",
+    "24/7 emergency roadside assistance across all Dubai communities"
   ],
 
   slug: "car-service-dubai",
@@ -23,101 +22,100 @@ export const carServiceDubai = {
   service_banner: ServiceBanner?.carService,
 
   intro: {
-    heading: "Complete Car Service in Dubai at Your Doorstep",
+    heading: "Professional Car Service in Dubai at Your Doorstep",
     subheading: "All-in-One Mobile Car Repair & Maintenance Solution",
-    content: "Car Repair Mechanic Dubai provides complete car service in Dubai, covering everything from routine maintenance to complex repairs. Our expert mobile mechanics handle battery replacement, oil change, AC repair, brake service, and engine diagnostics at your location. Fast, reliable, and professional service designed to keep your car running smoothly in Dubai’s demanding conditions."
+    content: "Maintaining your car in Dubai’s extreme heat and busy traffic is vital, but driving to a garage and waiting hours is inconvenient. OnFix Car Repair Mechanic Dubai brings a fully equipped mobile auto service directly to your home, office parking, or roadside location. From routine engine oil changes and filter replacements to complex diagnostics, AC servicing, brake repairs, and battery swaps, we deliver comprehensive car maintenance on-the-spot with absolute transparency and zero towing hassles."
   },
 
   whyChooseUs: {
-    heading: "Why Choose Car Repair Mechanic Dubai for Car Service?",
+    heading: "Why Choose OnFix for Car Service in Dubai?",
     points: [
-      "24/7 mobile car service anywhere in Dubai",
-      "Certified and experienced car mechanics",
-      "5 to 15 minutes response across Business Bay, Jumeirah, Downtown Dubai, and Dubai Silicon Oasis",
-      "Complete repair and maintenance solutions",
-      "Affordable and transparent pricing",
-      "Fast response for emergency car issues",
-      "Use of high-quality parts and professional tools"
+      "24/7 mobile car repair and maintenance service across all Dubai districts",
+      "Certified, highly experienced mechanics specialized in multi-brand vehicles",
+      "Rapid 5 to 30-minute mobile dispatch across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and major highways",
+      "Complete suite of maintenance and repair solutions performed right at your location",
+      "100% transparent upfront pricing with zero hidden fees or unexpected charges",
+      "Use of genuine OEM parts, premium synthetic oils, and professional diagnostic tools"
     ]
   },
 
   problemSignsSection: {
-    heading: "Signs Your Car Needs Immediate Service",
-    description: "Don’t ignore these common warning signs:",
+    heading: "Signs Your Car Needs Immediate Service & Maintenance",
+    description: "Don't ignore subtle warning signs that can lead to costly breakdowns:",
     signs: [
-      "Engine warning light on dashboard",
-      "Car not starting or battery problems",
-      "AC not cooling properly",
-      "Brake noise or reduced stopping power",
-      "Engine overheating or coolant leaks",
-      "Unusual vibrations, smoke, or noise"
+      "Check engine light or warning indicators flashing on your dashboard",
+      "Difficulty starting the engine, clicking noises, or a failing car battery",
+      "Car AC blowing warm air, foul odors, or weak airflow",
+      "Squealing, grinding brakes or increased stopping distances",
+      "Engine overheating, temperature spikes, or mysterious fluid leaks",
+      "Unusual engine vibrations, smoke, or sluggish acceleration while driving"
     ]
   },
 
   ourProcess: {
-    heading: "Our Car Service Process",
+    heading: "Our Seamless Mobile Car Service Process",
     steps: [
       {
-        title: "Step 1: Book Service",
-        description: "Call or book online and share your car issue and location."
+        title: "Step 1: Easy Booking & Location Sharing",
+        description: "Call or message us with your vehicle details, required service, and location in Dubai."
       },
       {
-        title: "Step 2: Onsite Inspection",
-        description: "Our mechanic arrives at your location for full inspection."
+        title: "Step 2: Rapid Mobile Unit Dispatch",
+        description: "Our certified mechanic arrives at your home, office, or roadside with professional tools."
       },
       {
-        title: "Step 3: Diagnosis & Estimate",
-        description: "We identify the issue and provide a clear repair plan."
+        title: "Step 3: Comprehensive Inspection & Quote",
+        description: "We run advanced diagnostics or inspect components, offering a clear, upfront cost estimate."
       },
       {
-        title: "Step 4: Repair & Maintenance",
-        description: "We perform necessary repairs using quality parts."
+        title: "Step 4: Onsite Maintenance & Repair",
+        description: "We perform the oil change, part replacement, or repair right on the spot using OEM parts."
       },
       {
-        title: "Step 5: Final Testing",
-        description: "We test your car to ensure everything is working perfectly."
+        title: "Step 5: Road-Testing & Final Handover",
+        description: "We test-drive and verify vehicle performance to ensure safety before handing your keys back."
       }
     ]
   },
 
   toolsOrProducts: {
-    heading: "Parts & Brands We Use",
+    heading: "OEM Parts & Trusted Brands We Use",
     brands: [
-      "Bosch Automotive Parts",
-      "AC Delco Batteries",
-      "Castrol & Mobil Engine Oils",
-      "Denso & Valeo Components",
-      "Snap-on & Launch Diagnostics Tools"
+      "Bosch Automotive Components & Filters",
+      "AC Delco & Varta Batteries",
+      "Castrol Edge, Mobil 1, & Shell Fully Synthetic Engine Oils",
+      "Denso, Brembo, & Valeo Parts",
+      "Launch & Snap-on Professional Diagnostic Equipment"
     ],
-    note: "We use only trusted brands and OEM-quality parts to ensure long-lasting performance and safety."
+    note: "We exclusively use manufacturer-approved OEM parts, premium synthetic lubricants, and advanced diagnostic tools to protect your engine against Dubai's harsh climate."
   },
 
   ctaSection: {
-    heading: "Looking for Reliable Car Service in Dubai? Call Now!",
-    description: "Get fast, professional mobile service anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
+    heading: "Looking for Reliable Car Service in Dubai? Call OnFix Now!",
+    description: "Get fast, professional mobile car service anywhere in Dubai. Skip the workshop queues and towing fees. Call OnFix Car Repair Mechanic Dubai today at +971 54 141 6509.",
     buttonText: "Book Car Service Now"
   },
 
   faq: [
     {
-      question: "What services are included in car service in Dubai?",
-      answer: "Our car service includes oil change, battery replacement, AC repair, brake service, diagnostics, and full car maintenance."
+      question: "What services are included in your full car service in Dubai?",
+      answer: "Our mobile car service covers routine maintenance like oil and filter changes, battery replacement, AC repair, brake service, alternator fixes, cooling system repairs, and full computer diagnostics."
     },
     {
-      question: "Do you provide mobile car service in Dubai?",
-      answer: "Yes, we provide complete mobile car service at your home, office, or roadside anywhere in Dubai."
+      question: "Do I need to drive my car to a workshop for servicing?",
+      answer: "Not at all! OnFix brings the entire garage setup directly to your doorstep—whether you are at home, working in an office building, or stranded roadside in Dubai."
     },
     {
       question: "How often should I service my car in Dubai?",
-      answer: "It is recommended every 5,000–10,000 km or every 6 months due to Dubai’s extreme weather conditions."
+      answer: "Due to extreme summer heat and heavy dust conditions in Dubai, we recommend a routine oil change and service every 5,000 to 10,000 km or every 6 months."
     },
     {
-      question: "Do you service all car brands?",
-      answer: "Yes, we service all major brands including Toyota, Nissan, BMW, Mercedes, Honda, Ford, and more."
+      question: "Do you service all car makes and models?",
+      answer: "Yes, our certified mechanics are experienced in servicing all major Asian, European, American, and luxury vehicle brands including Toyota, Nissan, BMW, Mercedes-Benz, Audi, Ford, and more."
     },
     {
-      question: "How long does a car service take?",
-      answer: "Basic service takes 30–60 minutes, while full service may take 1–3 hours depending on the car condition."
+      question: "How long does a mobile car service take?",
+      answer: "A standard oil change and minor service usually takes 30 to 45 minutes, while comprehensive maintenance or repairs take between 1 to 3 hours right at your location."
     }
   ]
 }

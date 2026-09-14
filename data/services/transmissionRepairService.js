@@ -1,119 +1,120 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const transmissionRepairService = {
-    title: "Car Transmission Repair Dubai | Automatic & Manual Transmission Service",
+    title: "Car Transmission Repair Dubai | Automatic & Manual Gearbox Service",
     name: "Car Transmission Repair",
-    metaTitle: "Car Transmission Repair Dubai – Expert Gearbox & Transmission Service",
-    metaDescription: "Stuck in gear or facing transmission issues? Car Repair Mechanic Dubai provides fast and reliable 5 to 15 minutes response for transmission repair, clutch and gearbox maintenance at your location.",
+    metaTitle: "Car Transmission Repair Dubai – 24/7 Mobile Gearbox & Clutch Service",
+    metaDescription: "Experiencing gear slipping or transmission failure in Dubai? OnFix Car Repair Mechanic Dubai offers expert mobile transmission repair, clutch replacement, and gearbox diagnostics.",
 
     features: [
-        "Automatic and manual transmission repair",
-        "Clutch replacement and adjustment",
-        "Gearbox diagnostics and repair",
-        "Transmission fluid replacement",
-        "Onsite mobile transmission repair across Dubai",
-        "Reliable and smooth driving after repair"
+        "Automatic and manual transmission diagnostics, repair & overhaul",
+        "Clutch kit replacement, adjustment, and flywheel inspection",
+        "Gearbox electronic control unit (TCU/Mechatronics) troubleshooting",
+        "Transmission fluid flushing, replacement, and cooler line check",
+        "Onsite mobile transmission repair and roadside support across Dubai",
+        "Support for all European, Japanese, American, and luxury vehicle brands"
     ],
 
     slug: "car-transmission-repair-dubai",
 
     service_image: serviceImages?.gear,
-    service_banner: ServiceBanner.transmission,
+    service_banner: ServiceBanner?.transmission,
 
     intro: {
-        heading: "Professional Car Transmission Repair in Dubai",
-        subheading: "Ensure Your Car Brakes Work Safely and Efficiently",
-        content: "Car Repair Mechanic Dubai's expert mobile mechanics provide complete transmission repair services for both automatic and manual vehicles. From clutch issues to gearbox problems, we diagnose and repair transmission faults onsite, so you get back on the road safely and quickly."
+        heading: "Professional Mobile Car Transmission Repair in Dubai",
+        subheading: "Ensure Smooth Gear Shifting & Reliable Gearbox Performance",
+        content: "Transmission problems can immobilize your vehicle and turn into costly disasters if neglected. Traditional workshops require expensive flatbed towing and weeks of waiting. OnFix Car Repair Mechanic Dubai delivers professional mobile transmission and gearbox repair services directly to your location anywhere in Dubai. Whether you are dealing with clutch failure, rough gear shifting, transmission fluid leaks, or slipping gears, our certified technicians diagnose and service your transmission system onsite with precision tools."
     },
 
     whyChooseUs: {
-        heading: "Why Choose Car Repair Mechanic Dubai for Transmission Repair?",
+        heading: "Why Choose OnFix for Transmission Repair in Dubai?",
         points: [
-            "Certified and experienced mechanics",
-            "Onsite transmission diagnostics and repair",
-            "Fast 5 to 15 minutes response across Business Bay, Jumeirah, Downtown Dubai, and Dubai Silicon Oasis",
-            "Affordable and transparent pricing",
-            "Use of genuine parts and professional tools",
-            "Warranty-backed repair for peace of mind"
+            "Expert mobile automotive technicians specialized in complex automatic and manual transmission systems",
+            "Rapid 5 to 30-minute mobile response across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and major highways",
+            "Advanced diagnostic scanners for precise electronic gearbox, valve body, and sensor troubleshooting",
+            "Use of high-grade OEM transmission components, clutch kits, and manufacturer-approved fluids",
+            "Transparent, competitive upfront pricing with zero hidden fees or unexpected charges",
+            "Comprehensive quality warranty on all replaced transmission parts and mechanical repairs"
         ]
     },
 
     problemSignsSection: {
-        heading: "Signs Your Car Needs Transmission Repair",
-        description: "Watch for these warning signs:",
+        heading: "Critical Signs Your Car Needs Transmission Repair",
+        description: "Transmission failure rarely happens without warning. Watch out for these critical red flags:",
         signs: [
-            "Difficulty shifting gears",
-            "Strange noises while changing gears",
-            "Transmission slipping or jerking",
-            "Fluid leaks under the car",
-            "Delayed engagement when accelerating"
+            "Difficulty shifting gears, delayed engagement, or refusal to go into reverse or drive",
+            "Unusual grinding, whining, buzzing, or clunking noises coming from underneath the vehicle",
+            "Transmission slipping (engine revs high but the car doesn't accelerate proportionally)",
+            "Jerking, harsh shifting, or sudden kicking sensation when gears change",
+            "Sweet-smelling red or brown transmission fluid pooling under your car",
+            "Check engine light or transmission warning symbol illuminated on the dashboard"
         ]
     },
 
     ourProcess: {
-        heading: "Transmission Repair Process",
+        heading: "Our Seamless Onsite Transmission Repair Process",
         steps: [
             {
-                title: "Step 1: Onsite Assessment",
-                description: "We inspect your car’s transmission to identify the exact problem."
+                title: "Step 1: Instant Mobile Dispatch",
+                description: "Contact us via call or WhatsApp with your vehicle model and exact location in Dubai for rapid dispatch."
             },
             {
-                title: "Step 2: Diagnostic Testing",
-                description: "Advanced tools check clutch, gearbox, and transmission components."
+                title: "Step 2: Advanced Diagnostic Testing",
+                description: "We connect professional diagnostic scanners and check fluid levels to pinpoint mechanical or electronic faults."
             },
             {
-                title: "Step 3: Repair or Replacement",
-                description: "We repair or replace faulty transmission parts onsite efficiently."
+                title: "Step 3: Onsite Repair & Component Replacement",
+                description: "We perform necessary clutch replacements, sensor repairs, or fluid flushes right where your car is parked."
             },
             {
-                title: "Step 4: Fluid Check & Safety Test",
-                description: "We ensure proper fluid levels and test smooth gear operation."
+                title: "Step 4: Fluid Refill & Pressure Calibration",
+                description: "We replenish transmission fluid to exact manufacturer specifications and clear stored electronic fault codes."
             },
             {
-                title: "Step 5: Service Confirmation",
-                description: "Receive documentation and warranty for replaced parts."
+                title: "Step 5: Road-Testing & Handover",
+                description: "We conduct a thorough test-drive to ensure smooth gear shifting, proper pressure, and reliable performance."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Premium Tools & Parts for Transmission Repair",
+        heading: "Premium Transmission Parts & Professional Diagnostic Tools",
         brands: [
-            "ZF Transmission Components",
-            "Aisin Clutch & Gearbox Parts",
-            "Liqui Moly Transmission Fluids",
-            "Snap-on & Launch Diagnostics Tools",
-            "High-quality OEM replacement parts"
+            "ZF & Aisin Transmission Components & Valve Bodies",
+            "OEM Clutch Kits, Flywheels, and Slave Cylinders",
+            "Liqui Moly & Castrol High-Performance Transmission Fluids",
+            "Snap-on & Launch Advanced Gearbox Diagnostic Scanners",
+            "Heavy-duty fluid extraction and flushing equipment"
         ],
-        note: "We use trusted brands and professional tools to ensure reliable transmission repair and safe driving."
+        note: "We utilize manufacturer-approved transmission fluids and precision diagnostic equipment to protect sensitive gearbox internals and guarantee smooth driving dynamics."
     },
 
     ctaSection: {
-        heading: "Need Car Transmission Repair in Dubai? Call Now!",
-        description: "Get fast, professional mobile service anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
+        heading: "Facing Gearbox Issues in Dubai? Book Transmission Repair Today!",
+        description: "Skip the expensive towing fees and workshop delays. Get expert mobile transmission service at your doorstep. Call OnFix Car Repair Mechanic Dubai at +971 54 141 6509.",
         buttonText: "Book Transmission Repair"
     },
 
     faq: [
         {
-            question: "How long does car transmission repair take?",
-            answer: "Most onsite transmission repairs are completed within 60–180 minutes, depending on the issue."
+            question: "Can transmission problems be repaired onsite without towing my car?",
+            answer: "Yes! Many transmission issues—such as clutch failures, electronic sensor faults, fluid leaks, and valve body issues—can be diagnosed and repaired directly at your home, office, or roadside location in Dubai."
         },
         {
-            question: "Do you repair all car brands?",
-            answer: "Yes, we repair transmission systems for all major car brands including Toyota, BMW, Mercedes, Honda, Nissan, and more."
+            question: "How long does a mobile transmission service or repair take?",
+            answer: "Depending on the complexity of the issue, minor repairs and fluid changes take about 1 to 2 hours, while major clutch or component replacements are scheduled efficiently to minimize downtime."
         },
         {
-            question: "Can you fix the transmission without towing the car?",
-            answer: "Yes, our mobile mechanics repair transmissions onsite with advanced diagnostic tools."
+            question: "What is the difference between manual and automatic transmission repairs you handle?",
+            answer: "Our technicians are certified to handle both systems. For manuals, we specialize in clutch replacements, linkages, and gearboxes. For automatics, we service torque converters, Mechatronics units, valve bodies, and fluid systems."
         },
         {
-            question: "Do you provide warranty on transmission parts?",
-            answer: "Yes, all replaced transmission parts come with a warranty for peace of mind."
+            question: "Do you provide a warranty on transmission parts and repairs?",
+            answer: "Yes, all transmission components replaced and mechanical services performed by OnFix are backed by an official quality warranty for your complete peace of mind."
         },
         {
-            question: "Is transmission repair expensive?",
-            answer: "We provide affordable, transparent pricing with no hidden charges."
+            question: "Do you support luxury and European car brands for transmission repairs?",
+            answer: "Absolutely. We have specialized diagnostic tools and expertise for luxury and European models including BMW, Mercedes-Benz, Audi, Porsche, Range Rover, as well as Japanese and American brands."
         }
     ]
 }

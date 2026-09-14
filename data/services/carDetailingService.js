@@ -1,119 +1,119 @@
 import { ServiceBanner, serviceImages } from "@/utils/assets";
 
 export const carDetailingService = {
-    title: "Car Detailing Dubai | Mobile & Professional Auto Detailing Service",
+    title: "Car Detailing Dubai | Mobile Auto Detailing & Paint Protection",
     name: "Car Detailing Service",
-    metaTitle: "Car Detailing Dubai – Mobile Auto Cleaning & Polishing Service",
-    metaDescription: "Get your car looking brand new with Car Repair Mechanic Dubai professional car detailing service. Interior & exterior cleaning, polishing, waxing, and full mobile detailing at your doorstep.",
+    metaTitle: "Car Detailing Dubai – 24/7 Mobile Auto Detailing & Polish Service",
+    metaDescription: "Restore your car's showroom shine with OnFix Car Repair Mechanic Dubai. We provide 24/7 mobile car detailing, interior steam cleaning, paint correction, and waxing at your doorstep.",
 
     features: [
-        "Complete interior and exterior cleaning",
-        "Car polishing and waxing for shine & protection",
-        "Steam cleaning & stain removal",
-        "Engine bay cleaning",
-        "Mobile car detailing at your location in Dubai",
-        "Paint protection & scratch removal"
+        "Complete interior deep cleaning, vacuuming & steam sanitization",
+        "Exterior paint correction, multi-stage polishing & swirl removal",
+        "Long-lasting ceramic wax, sealant & paint protection",
+        "Leather conditioning, upholstery shampoo & stain removal",
+        "Safe engine bay detailing & headlight restoration",
+        "24/7 doorstep mobile car detailing across all Dubai communities"
     ],
 
     slug: "car-detailing-service-dubai",
 
     service_image: serviceImages?.maintenance,
-    service_banner: ServiceBanner.detailing,
+    service_banner: ServiceBanner?.detailing,
 
     intro: {
-        heading: "Professional Car Detailing Service in Dubai",
-        subheading: "Keep Your Car Spotless & Protected",
-        content: "Car Repair Mechanic Dubai's expert mobile mechanics provide full car detailing services at your convenience anywhere in Dubai. From deep interior cleaning to exterior polishing and waxing, we restore your car’s look and protect it from dirt, dust, and scratches."
+        heading: "Professional Mobile Car Detailing Service in Dubai",
+        subheading: "Restore Showroom Shine & Absolute Cleanliness at Your Doorstep",
+        content: "Dubai's desert dust, intense heat, and daily traffic take a severe toll on your vehicle's exterior paint and interior hygiene. Traditional car wash centers often leave swirl marks and require inconvenient driving and waiting. OnFix Car Repair Mechanic Dubai brings a professional mobile auto detailing studio directly to your home, office, or residential parking. We provide deep interior steam cleaning, multi-stage paint correction, ceramic wax protection, and engine bay detailing on-the-spot, ensuring your car looks and feels brand new."
     },
 
     whyChooseUs: {
-        heading: "Why Choose Car Repair Mechanic Dubai for Car Detailing?",
+        heading: "Why Choose OnFix for Car Detailing in Dubai?",
         points: [
-            "Experienced detailing technicians",
-            "Onsite service at home, office, or roadside",
-            "Premium cleaning products and tools",
-            "Affordable pricing with transparent quotes",
-            "5 to 15 minutes rapid response across Business Bay, Jumeirah, Downtown Dubai, and Dubai Silicon Oasis",
-            "Protects paint, interior, and overall car value"
+            "Rapid mobile dispatch across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and all major Dubai areas",
+            "Expert detailing technicians equipped with professional-grade polishers, extractors, and steam tools",
+            "Use of premium, paint-safe car care products (Meguiar's, 3M, Sonax, Chemical Guys)",
+            "Convenient doorstep service at your home or office—zero travel or waiting required",
+            "100% transparent upfront pricing with zero hidden costs or surprise charges",
+            "Complete preservation of your vehicle's aesthetic appeal, hygiene, and resale value"
         ]
     },
 
     problemSignsSection: {
-        heading: "When to Get Car Detailing",
-        description: "Regular detailing prevents damage and keeps your car looking new:",
+        heading: "Signs Your Car Needs Professional Detailing",
+        description: "Regular washing isn't enough to combat environmental wear. Watch out for these indicators:",
         signs: [
-            "Dull, scratched, or oxidized paint",
-            "Dirty or stained interiors",
-            "Foul odors inside the cabin",
-            "Visible dust and grime accumulation",
-            "Loss of shine and water repellency on paint"
+            "Dull, oxidized, or faded paint with visible swirl marks and light scratches",
+            "Stubborn stains, ground-in dirt, or bad odors embedded in fabric or leather seats",
+            "Sticky dashboards, dusty air vents, and grimy door jambs",
+            "Water spots, road tar, and bird dropping etchings clinging to the clear coat",
+            "Cloudy, yellowed headlights reducing nighttime visibility"
         ]
     },
 
     ourProcess: {
-        heading: "Car Detailing Process",
+        heading: "Our Onsite Car Detailing Process",
         steps: [
             {
-                title: "Step 1: Exterior Wash",
-                description: "Thorough wash using premium soaps to remove dirt and grime."
+                title: "Step 1: Comprehensive Pre-Wash & Inspection",
+                description: "We assess paint condition and perform a safe foam pre-wash to lift loose grit and dust."
             },
             {
-                title: "Step 2: Interior Cleaning",
-                description: "Vacuuming, shampooing, and stain removal from seats, carpets, and mats."
+                title: "Step 2: Interior Deep Clean & Steam Sanitization",
+                description: "We vacuum, shampoo carpets, deep-clean upholstery, condition leather, and sanitize vents."
             },
             {
-                title: "Step 3: Polishing & Waxing",
-                description: "Paint polishing, waxing, and scratch removal to restore shine."
+                title: "Step 3: Exterior Paint Correction & Polishing",
+                description: "We remove swirl marks, oxidation, and light scratches using professional rotary polishers."
             },
             {
-                title: "Step 4: Engine Bay & Tires",
-                description: "Cleaning engine bay and dressing tires for complete detailing."
+                title: "Step 4: Waxing, Sealing & Trim Dressing",
+                description: "We apply high-grade protective wax or sealant and dress tires and trim for a deep gloss finish."
             },
             {
-                title: "Step 5: Final Inspection",
-                description: "Ensuring spotless finish, shine, and protection for long-lasting results."
+                title: "Step 5: Final Inspection & Client Handover",
+                description: "We conduct a meticulous quality check to ensure absolute perfection before handing your car back."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Premium Car Detailing Products We Use",
+        heading: "Professional Detailing Brands & Equipment We Use",
         brands: [
-            "Meguiar's Car Care",
-            "Turtle Wax",
-            "3M Automotive Products",
-            "Sonax Detailing Products",
-            "Chemical Guys Professional Range"
+            "Meguiar's Professional Car Care Compounds & Waxes",
+            "3M Automotive Paint Correction & Polishing Systems",
+            "Sonax & Chemical Guys Interior Cleaners & Conditioners",
+            "High-pressure steam extractors and ozone odor eliminators",
+            "Microfiber plush towels and safe pH-balanced shampoos"
         ],
-        note: "We only use high-quality products to ensure long-lasting protection and shine for your car."
+        note: "We utilize world-class automotive care products and specialized detailing equipment to deliver a flawless, showroom-quality finish while protecting your vehicle's surfaces."
     },
 
     ctaSection: {
-        heading: "Book Your Car Detailing in Dubai Today!",
-        description: "Get fast, professional mobile service anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
+        heading: "Want Your Car Looking Brand New? Book Detailing in Dubai Today!",
+        description: "Get premium mobile car detailing at your doorstep anywhere in Dubai. Call OnFix Car Repair Mechanic Dubai today at +971 54 141 6509.",
         buttonText: "Book Car Detailing Service"
     },
 
     faq: [
         {
-            question: "Do you offer mobile car detailing in Dubai?",
-            answer: "Yes, we provide complete car detailing at your home, office, or any location in Dubai."
+            question: "Do you provide mobile car detailing anywhere in Dubai?",
+            answer: "Yes! Our mobile detailing units bring the entire setup directly to your home, apartment parking, or office anywhere in Dubai."
         },
         {
-            question: "How often should I get car detailing?",
-            answer: "It’s recommended every 3–6 months depending on your car usage and exposure to dust and weather conditions."
+            question: "Do I need to provide water or electricity for mobile detailing?",
+            answer: "Our mobile units are fully equipped and self-sufficient for most standard doorstep detailing services, ensuring a hassle-free experience."
         },
         {
-            question: "Which services are included in car detailing?",
-            answer: "Our detailing covers interior cleaning, exterior washing, polishing, waxing, engine bay cleaning, tire dressing, and paint protection."
+            question: "How often should I get my car detailed?",
+            answer: "We recommend a professional detailing service every 3 to 6 months to protect your car's paint from Dubai's harsh sun and maintain interior hygiene."
         },
         {
-            question: "How long does car detailing take?",
-            answer: "Most detailing services take between 2–4 hours depending on the size and condition of the vehicle."
+            question: "Can you remove deep scratches from my car paint?",
+            answer: "While standard detailing removes light swirl marks and oxidation, deep scratches that penetrate through the clear coat may require specialized paint touch-ups. Our technicians inspect and advise onsite."
         },
         {
-            question: "Do you provide paint protection and scratch removal?",
-            answer: "Yes, our detailing includes minor scratch removal, polishing, waxing, and long-lasting paint protection."
+            question: "How long does a full car detailing session take?",
+            answer: "Depending on the vehicle size and chosen package, a comprehensive interior and exterior detailing session takes between 2 to 4 hours."
         }
     ]
 }

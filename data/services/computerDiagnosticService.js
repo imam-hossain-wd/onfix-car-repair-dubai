@@ -3,175 +3,119 @@ import { ServiceBanner, serviceImages } from "@/utils/assets";
 export const computerDiagnosticService = {
     title: "Car Computer Diagnostic Service Dubai | Mobile ECU Scan Near You",
     name: "Car Computer Diagnostic Service",
-    metaTitle: "Car Computer Diagnostic Service Dubai | ECU & Engine Scan",
-    metaDescription:
-        "Looking for car computer diagnostics in Dubai? Get advanced ECU scanning, engine fault detection, ABS, transmission and electrical diagnostics at your location. Fast mobile diagnostic service available 24/7.",
+    metaTitle: "Car Computer Diagnostic Service Dubai – 24/7 Mobile ECU & Engine Scan",
+    metaDescription: "Check engine light on in Dubai? OnFix Car Repair Mechanic Dubai offers 24/7 mobile car computer diagnostics, ECU scanning, ABS, transmission & electrical fault checks onsite.",
 
     features: [
-        "Advanced ECU diagnostic scanning",
-        "Engine management fault detection",
-        "ABS, Airbag & Transmission diagnostics",
-        "Electrical system troubleshooting",
-        "Check engine light diagnosis",
-        "Suitable for all car makes and models"
+        "Advanced ECU diagnostic scanning & live sensor data analysis",
+        "Engine management & check engine light fault code detection",
+        "ABS, SRS airbag & transmission module diagnostics",
+        "Comprehensive electrical system & wiring troubleshooting",
+        "Limp mode diagnosis and module re-programming solutions",
+        "24/7 mobile diagnostic service anywhere in Dubai (Home, Office, Roadside)"
     ],
 
     slug: "car-computer-diagnostic-service-dubai",
 
     service_image: serviceImages?.computer,
-    service_banner: ServiceBanner.computerDiagnostic,
+    service_banner: ServiceBanner?.computerDiagnostic,
 
     intro: {
         heading: "24/7 Car Computer Diagnostic Service in Dubai",
-
-        subheading:
-            "Professional ECU Scanning & Vehicle Fault Diagnosis",
-
-        content:
-            "Modern vehicles rely on advanced computer systems to monitor engine performance, safety features, and electrical components. If your check engine light appears or your car experiences unusual behavior, Car Repair Mechanic Dubai provides professional car computer diagnostic services anywhere in Dubai. Our technicians use dealer-level diagnostic equipment to accurately identify fault codes, analyze system performance, and recommend effective repair solutions, helping you avoid unnecessary expenses and unexpected breakdowns."
+        subheading: "Professional ECU Scanning & Onsite Vehicle Fault Diagnosis",
+        content: "Modern luxury and standard vehicles rely heavily on complex computer systems, sensors, and electronic control units (ECUs) to manage engine performance, safety features, and transmission systems. When a check engine light illuminates or your car starts acting strangely, driving to a workshop blind can be risky and expensive. OnFix Car Repair Mechanic Dubai brings dealer-level diagnostic equipment directly to your location anywhere in Dubai. Our expert technicians perform advanced ECU scans, interpret error codes, and pinpoint hidden electrical or sensor issues on-site to ensure precise, cost-effective repairs."
     },
 
     whyChooseUs: {
-        heading:
-            "Why Choose Car Repair Mechanic Dubai for Computer Diagnostics?",
-
+        heading: "Why Choose OnFix for Car Computer Diagnostics in Dubai?",
         points: [
-            "24/7 mobile diagnostic service across Dubai",
-            "Advanced dealer-level scanning equipment",
-            "Fast response time within 5 to 15 minutes",
-            "Experienced technicians for all vehicle brands",
-            "Accurate fault code analysis and reporting",
-            "Transparent pricing with no hidden costs",
-            "Comprehensive system health inspection"
+            "24/7 emergency mobile diagnostic dispatch across all Dubai residential and commercial zones",
+            "State-of-the-art dealer-level scanning equipment (Autel, Launch, Bosch KTS)",
+            "Rapid 5 to 30-minute mobile arrival across Business Bay, Downtown Dubai, Dubai Marina, Jumeirah, Silicon Oasis, and major highways",
+            "Certified auto-electricians experienced with European, Japanese, American, and Korean vehicle electronics",
+            "Accurate fault code interpretation with comprehensive system health reports",
+            "100% transparent pricing and honest repair recommendations with zero hidden fees"
         ]
     },
 
     problemSignsSection: {
-        heading:
-            "Signs Your Vehicle Needs Computer Diagnostics",
-
-        description:
-            "Early diagnosis can prevent major repairs and improve vehicle reliability.",
-
+        heading: "Signs Your Vehicle Needs Professional Computer Diagnostics",
+        description: "Don't ignore dashboard warnings or erratic vehicle behavior. Watch out for these indicator signs:",
         signs: [
-            "Check engine light illuminated",
-            "ABS warning light appearing",
-            "Airbag warning light on dashboard",
-            "Poor fuel economy",
-            "Engine misfiring or rough idling",
-            "Transmission shifting issues",
-            "Loss of engine power",
-            "Electrical components malfunctioning",
-            "Car enters limp mode"
+            "Check engine light or service engine soon warning illuminated on the dashboard",
+            "ABS or traction control warning lights flashing unexpectedly",
+            "SRS airbag warning light or seatbelt safety alerts active",
+            "Sudden drop in fuel efficiency and sluggish acceleration",
+            "Engine misfiring, rough idling, or struggling to start",
+            "Transmission jerking, delayed gear shifting, or car getting stuck in limp mode",
+            "Unexplained electrical glitches (power windows, infotainment, sensors failing)"
         ]
     },
 
     ourProcess: {
-        heading: "Our Computer Diagnostic Process",
-
+        heading: "Our Seamless Onsite Computer Diagnostic Process",
         steps: [
             {
-                title: "Step 1: Book Your Diagnostic Service",
-
-                description:
-                    "Call or WhatsApp us and share your vehicle details and location."
+                title: "Step 1: Instant Booking & Location Sharing",
+                description: "Call or message us with your vehicle details, symptoms, and location in Dubai for fast mobile dispatch."
             },
-
             {
-                title: "Step 2: Technician Arrival",
-
-                description:
-                    "Our diagnostic specialist reaches your location anywhere in Dubai."
+                title: "Step 2: Rapid Mobile Technician Arrival",
+                description: "Our certified diagnostic specialist arrives at your home, office, or roadside with professional scanning kits."
             },
-
             {
-                title: "Step 3: ECU System Scan",
-
-                description:
-                    "We connect professional diagnostic equipment to scan all vehicle modules."
+                title: "Step 3: Comprehensive ECU System Scan",
+                description: "We connect advanced OBD-II diagnostic scanners to interrogate all vehicle control modules and ECUs."
             },
-
             {
-                title: "Step 4: Fault Analysis",
-
-                description:
-                    "Stored error codes and live sensor data are analyzed to identify underlying issues."
+                title: "Step 4: Live Data & Fault Analysis",
+                description: "We analyze stored error codes, pending faults, and live sensor data streams to uncover the root cause."
             },
-
             {
-                title: "Step 5: Report & Recommendations",
-
-                description:
-                    "You receive a detailed explanation of faults and recommended repairs."
+                title: "Step 5: Detailed Report & Repair Plan",
+                description: "You receive a clear breakdown of diagnostic results, expert recommendations, and transparent repair pricing."
             }
         ]
     },
 
     toolsOrProducts: {
-        heading: "Diagnostic Equipment We Use",
-
+        heading: "Advanced Diagnostic Equipment We Use",
         brands: [
-            "Autel MaxiSys",
-            "Launch X431",
-            "Bosch KTS",
-            "OBD-II Professional Scanners",
-            "Dealer-Level Diagnostic Software"
+            "Autel MaxiSys Professional Diagnostic Tablets",
+            "Launch X431 Elite Multi-Brand Scanners",
+            "Bosch KTS Diagnostic & Module Programming Units",
+            "Dealer-Level OEM Software Interfaces",
+            "Precision Digital Multimeters & Circuit Testers"
         ],
-
-        note:
-            "Our technicians use professional-grade diagnostic tools capable of communicating with engine, transmission, ABS, SRS, BCM, and other vehicle control modules."
+        note: "We utilize industry-leading diagnostic platforms capable of communicating deeply with engine computers, transmission modules, ABS systems, body control modules (BCMs), and electrical networks."
     },
 
     ctaSection: {
-        heading:
-            "Need Car Computer Diagnostics Near You in Dubai?",
-
-        description:
-            "Get fast and accurate fault detection anywhere in Dubai. Call Car Repair Mechanic Dubai at +971 56 831 6301 for immediate assistance.",
-
-        buttonText:
-            "Book Computer Diagnostics"
+        heading: "Check Engine Light On? Get Mobile Diagnostics in Dubai Now",
+        description: "Skip the workshop hassle and towing fees. Get advanced ECU scanning right at your doorstep. Call OnFix Car Repair Mechanic Dubai today at +971 54 141 6509.",
+        buttonText: "Book Computer Diagnostics"
     },
 
     faq: [
         {
-            question:
-                "How long does a computer diagnostic service take?",
-
-            answer:
-                "Most vehicle diagnostic inspections take between 20 and 45 minutes depending on the complexity of the issue."
+            question: "How long does a mobile computer diagnostic scan take?",
+            answer: "A comprehensive diagnostic scan and live data analysis typically takes between 20 to 45 minutes, depending on the complexity of the electronic issue."
         },
-
         {
-            question:
-                "Can diagnostics identify all vehicle problems?",
-
-            answer:
-                "Diagnostic scans can detect electronic and sensor-related faults. Mechanical inspections may also be required for certain issues."
+            question: "Can car diagnostics identify every single problem?",
+            answer: "Diagnostic scans pinpoint electronic, sensor, and circuit fault codes stored in the ECU. For certain purely mechanical failures, our technicians perform supplementary physical inspections."
         },
-
         {
-            question:
-                "Do you diagnose all car brands?",
-
-            answer:
-                "Yes. We provide diagnostics for European, Japanese, American, Korean, and luxury vehicle brands."
+            question: "Do you provide diagnostics for all car makes and models?",
+            answer: "Yes! Our advanced scanners support all major European, Japanese, American, Korean, and luxury brands including BMW, Mercedes-Benz, Audi, Porsche, Toyota, Nissan, Ford, and more."
         },
-
         {
-            question:
-                "Can you clear check engine lights?",
-
-            answer:
-                "Yes, but we recommend identifying and repairing the root cause before clearing fault codes."
+            question: "Can you clear check engine lights after scanning?",
+            answer: "Yes, we can clear fault codes and reset warning lights, but we always recommend fixing the underlying problem first to prevent the light from immediately returning."
         },
-
         {
-            question:
-                "Do you offer mobile diagnostic services at home?",
-
-            answer:
-                "Yes. Our technicians can perform complete vehicle diagnostics at your home, office, parking area, or roadside anywhere in Dubai."
+            question: "Do you travel to my location for diagnostics in Dubai?",
+            answer: "Absolutely! Our mobile diagnostic units come directly to your home, office parking lot, or roadside location anywhere in Dubai 24/7."
         }
     ]
-};
+}
